@@ -4,7 +4,7 @@
 
 For example, on CentOS 6, install `devtoolset-3-gcc` which is at 4.9.1.
 
-It is much newer than the `gcc-4.4` provided by CentOS repo.
+It is much newer than the `gcc-4.4` provided by CentOS repo, and the `gcc-4.9.1` will allow building on x86-64 CPUs that supports AVX2, and other features that will accelerate the crypto process.
 
 
 ## 1. Download OpenSSL
