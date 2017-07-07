@@ -27,7 +27,7 @@ Go to https://github.com/cloudflare/sslconfig/tree/master/patches and `wget ...`
 
 ## 4. Configure
 
-`./config shared --prefix=/usr/local --openssldir=/usr/local/openssl -march=native`
+`./config shared --prefix=/usr --openssldir=/usr/local/openssl -march=native`
 
 ## 5. Build
 
